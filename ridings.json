@@ -8,14 +8,14 @@
   {
     "id": 10002,
     "prov": "NL",
-    "name_en": "Cape Spear",
-    "name_fr": "Cape Spear"
+    "name_en": "Cape Spear—Mount Pearl—Paradise",
+    "name_fr": "Cape Spear—Mount Pearl—Paradise"
   },
   {
     "id": 10003,
     "prov": "NL",
-    "name_en": "Central Newfoundland",
-    "name_fr": "Central Newfoundland"
+    "name_en": "Coast of Bays—Central—Notre Dame",
+    "name_fr": "Coast of Bays—Central—Notre Dame"
   },
   {
     "id": 10004,
@@ -38,8 +38,8 @@
   {
     "id": 10007,
     "prov": "NL",
-    "name_en": "Terra Nova—The Peninsulas",
-    "name_fr": "Terra Nova—Les Péninsules"
+    "name_en": "The Eastern Peninsulas",
+    "name_fr": "Les Péninsules-Est"
   },
   {
     "id": 11001,
@@ -104,8 +104,8 @@
   {
     "id": 12007,
     "prov": "NS",
-    "name_en": "Halifax West",
-    "name_fr": "Halifax-Ouest"
+    "name_en": "Halifax West—Peggy's Cove",
+    "name_fr": "Halifax-Ouest—Peggy's Cove"
   },
   {
     "id": 12008,
@@ -182,8 +182,8 @@
   {
     "id": 13009,
     "prov": "NB",
-    "name_en": "Saint John—St. Croix",
-    "name_fr": "Saint John—St. Croix"
+    "name_en": "New Brunswick Southwest",
+    "name_fr": "Nouveau-Brunswick-Sud-Ouest"
   },
   {
     "id": 13010,
@@ -218,8 +218,8 @@
   {
     "id": 24005,
     "prov": "QC",
-    "name_en": "Argenteuil—La Petite-Nation",
-    "name_fr": "Argenteuil—La Petite-Nation"
+    "name_en": "Argenteuil—Papineau—Des Collines",
+    "name_fr": "Argenteuil—Papineau—Des Collines"
   },
   {
     "id": 24006,
@@ -230,8 +230,8 @@
   {
     "id": 24007,
     "prov": "QC",
-    "name_en": "Beauharnois—Salaberry—Soulanges—Huntingdon",
-    "name_fr": "Beauharnois—Salaberry—Soulanges—Huntingdon"
+    "name_en": "Vallée-du-Haut-Saint-Laurent",
+    "name_fr": "Vallée-du-Haut-Saint-Laurent"
   },
   {
     "id": 24008,
@@ -368,8 +368,8 @@
   {
     "id": 24030,
     "prov": "QC",
-    "name_en": "Jonquière",
-    "name_fr": "Jonquière"
+    "name_en": "Jonquière—Hébertville—Pays-des-Bleuets",
+    "name_fr": "Jonquière—Hébertville—Pays-des-Bleuets"
   },
   {
     "id": 24031,
@@ -434,8 +434,8 @@
   {
     "id": 24041,
     "prov": "QC",
-    "name_en": "Longueuil—Charles-LeMoyne",
-    "name_fr": "Longueuil—Charles-LeMoyne"
+    "name_en": "Longueuil—Greenfield Park",
+    "name_fr": "Longueuil—Greenfield Park"
   },
   {
     "id": 24042,
@@ -536,8 +536,8 @@
   {
     "id": 24058,
     "prov": "QC",
-    "name_en": "Portneuf—Jacques-Cartier",
-    "name_fr": "Portneuf—Jacques-Cartier"
+    "name_en": "Saint-Augustin—Portneuf—Jacques-Cartier",
+    "name_fr": "Saint-Augustin—Portneuf—Jacques-Cartier"
   },
   {
     "id": 24059,
@@ -554,14 +554,14 @@
   {
     "id": 24061,
     "prov": "QC",
-    "name_en": "Richmond—Arthabaska",
-    "name_fr": "Richmond—Arthabaska"
+    "name_en": "Richmond—Arthabaska—Val-des-Sources",
+    "name_fr": "Richmond—Arthabaska—Val-des-Sources"
   },
   {
     "id": 24062,
     "prov": "QC",
-    "name_en": "Rimouski—La Matapédia",
-    "name_fr": "Rimouski—La Matapédia"
+    "name_en": "Rimouski-Neigette—Mitis—Matapédia—Les Basques",
+    "name_fr": "Rimouski-Neigette—Mitis—Matapédia—Les Basques"
   },
   {
     "id": 24063,
@@ -746,8 +746,8 @@
   {
     "id": 35015,
     "prov": "ON",
-    "name_en": "Brantford—Brant South—Six Nations",
-    "name_fr": "Brantford—Brant-Sud—Six Nations"
+    "name_en": "Brantford—Brant South",
+    "name_fr": "Brantford—Brant-Sud"
   },
   {
     "id": 35016,
@@ -896,8 +896,8 @@
   {
     "id": 35040,
     "prov": "ON",
-    "name_en": "Hastings—Lennox and Addington—Tyendinaga",
-    "name_fr": "Hastings—Lennox and Addington—Tyendinaga"
+    "name_en": "Hastings—Lennox and Addington",
+    "name_fr": "Hastings—Lennox and Addington"
   },
   {
     "id": 35041,
@@ -1064,14 +1064,14 @@
   {
     "id": 35068,
     "prov": "ON",
-    "name_en": "New Tecumseth—Gwillimbury",
-    "name_fr": "New Tecumseth—Gwillimbury"
+    "name_en": "Newmarket—Aurora",
+    "name_fr": "Newmarket—Aurora"
   },
   {
     "id": 35069,
     "prov": "ON",
-    "name_en": "Newmarket—Aurora",
-    "name_fr": "Newmarket—Aurora"
+    "name_en": "York—South Simcoe",
+    "name_fr": "York—Simcoe-Sud"
   },
   {
     "id": 35070,
@@ -1196,8 +1196,8 @@
   {
     "id": 35090,
     "prov": "ON",
-    "name_en": "Sarnia—Lambton—Bkejwanong",
-    "name_fr": "Sarnia—Lambton—Bkejwanong"
+    "name_en": "Sarnia—Lambton",
+    "name_fr": "Sarnia—Lambton"
   },
   {
     "id": 35091,
@@ -1376,8 +1376,8 @@
   {
     "id": 35120,
     "prov": "ON",
-    "name_en": "York Centre",
-    "name_fr": "York-Centre"
+    "name_en": "North York",
+    "name_fr": "North York"
   },
   {
     "id": 35121,
@@ -1532,8 +1532,8 @@
   {
     "id": 47010,
     "prov": "SK",
-    "name_en": "Saskatoon—University",
-    "name_fr": "Saskatoon—University"
+    "name_en": "Saskatoon East",
+    "name_fr": "Saskatoon-Est"
   },
   {
     "id": 47011,
@@ -1802,8 +1802,8 @@
   {
     "id": 59004,
     "prov": "BC",
-    "name_en": "Cariboo—Prince George",
-    "name_fr": "Cariboo—Prince George"
+    "name_en": "Cariboo—Prince George—Omineca",
+    "name_fr": "Cariboo—Prince George—Omineca"
   },
   {
     "id": 59005,

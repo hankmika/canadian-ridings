@@ -2,7 +2,7 @@
 
 A single JSON file listing all **343 federal electoral districts (ridings)** of Canada, with province codes, official riding IDs, and names in both English and French.
 
-The list reflects the **2023 Representation Order**, in effect since the 2025 federal election.
+The list reflects the **2023 Representation Order**, in effect since the 2025 federal election, including the 19 riding renames enacted by *An Act to change the names of certain electoral districts, 2026* (Part 2 of Bill C-25, the *Strong and Free Elections Act*).
 
 ## Data
 
